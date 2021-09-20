@@ -1,8 +1,8 @@
 {
-  "name": "vuetrend",
-  "productionName": "Vue Trend",
+  "name": "vue3trend",
+  "productionName": "Vue 3 Trend",
   "version": "0.3.4",
-  "description": "Simple, elegant spark lines for Vue.js",
+  "description": "Simple, elegant spark lines for Vue.js 3",
   "main": "dist/vue-trend.common.js",
   "module": "dist/vue-trend.esm.js",
   "unpkg": "dist/vue-trend.js",
@@ -26,7 +26,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/QingWei-Li/vue-trend.git"
+    "url": "https://github.com/axle07/vue-trend.git"
   },
   "homepage": "https://cinwell.com/vue-trend/",
   "author": "qingwei-li <cinwell.li@gmail.com> (https://github.com/QingWei-Li)",
